@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - IntroFloor
+  - FirstLanding
+  - AlmostThere
+  - MadeIt
+  - JustWantOut
+  - CantBeMuchBigger
+  - JumpThroughTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Floor
+  - Wall
+  - Diags
+  - Rain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4103256479
+    locked: 0
+  - name: Scenery
+    uniqueID: 3647842377
+    locked: 0
+  - name: Rain
+    uniqueID: 4015143701
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2079992629
+    locked: 0
+  - name: MapObjects
+    uniqueID: 586754351
+    locked: 0
